@@ -1,0 +1,139 @@
+.navbar{
+    height: 75px;
+    border-bottom: 1px solid whitesmoke;
+    margin: 7px 40px;
+    align-content: center;
+}
+
+.navbar-brand{
+    width: 170px;
+    height: 60px;
+}
+
+.navbar .form-control{
+    width: 230px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+}
+
+.flexbox {
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#flexcontent {
+    font-size: 25px;
+}
+
+#dahyun {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.profile {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    display: flex;
+    width: 400px;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name .profile_edit {
+    border: 1px solid whitesmoke;
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.follower {
+    display: flex;
+    width: 400px;
+    align-content: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.introduction {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    margin-top: 20px;
+}
+
+.name p {
+    font-size: 30px;
+}
+
+.fas {
+    font-size: 30px;
+}
+
+.items {
+    margin: 30px auto;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.flexcontent3 {
+    margin: 0 20px;
+}
+
+#dahyun2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.category {
+    margin: 0 10%;
+    display: flex;
+    border-top: 1px solid whitesmoke;
+    justify-content: center;
+}
+
+.inner_category {
+    margin: 20px 30px;
+    align-content: center;
+}
+
+.under_box {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.photos {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.photos img {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin: 20px 8px;
+    justify-content: center;
+}
